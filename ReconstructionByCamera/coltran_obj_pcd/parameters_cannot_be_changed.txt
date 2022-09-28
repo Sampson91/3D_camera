@@ -1,0 +1,2 @@
+downsample == 64
+if higher, 3080 GPU memory is not enough.

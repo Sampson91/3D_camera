@@ -1,0 +1,79 @@
+algorithm_kwargs:
+  batch_size: 1
+  evaluation_frequency: 1
+  number_of_epochs: 200
+  start_epoch: 136
+amp: true
+dataset_kwargs:
+  add_mask: false
+  batch_size: 1
+  change_mask: false
+  crop_size: 240
+  dataset: coco
+  dataset_directory: segm/data
+  image_size: 240
+  mask_number: 4
+  multi_scaled: false
+  normalization: vit
+  number_of_colors: 313
+  number_of_workers: 10
+  patch_size: 16
+  split: train
+inference_kwargs:
+  image_size: 240
+  window_size: 240
+  window_stride: 256
+log_directory: segm/vit-large
+net_kwargs:
+  backbone: vit_large_patch16_384
+  decoder:
+    add_convolution: true
+    add_edge: false
+    add_l1_loss: true
+    before_classify: false
+    change_mask: false
+    color_as_condition: false
+    color_position: true
+    crop_size: 240
+    downchannel: false
+    drop_path_rate: 0.0
+    dropout: 0.1
+    l1_convolution: true
+    l1_linear: false
+    multi_scaled: false
+    name: mask_transformer
+    number_of_blocks: 1
+    number_of_colors: 313
+    number_of_layers: 2
+    sin_color_position: false
+    without_classification: false
+    without_colorattn: false
+    without_colorquery: false
+  drop_path_rate: 0.1
+  dropout: 0.0
+  image_size: !!python/tuple
+  - 240
+  - 240
+  normalization: vit
+  number_of_colors: 313
+  number_of_features: 1024
+  number_of_heads: 16
+  number_of_layers: 24
+  partial_finetune: false
+  patch_size: 16
+optimizer_kwargs:
+  clip_gradient: null
+  epochs: 200
+  iter_max: 800
+  iter_warmup: 0.0
+  learning_rate: 0.001
+  min_learning_rate: 1.0e-05
+  momentum: 0.9
+  optimizer: sgd
+  poly_power: 0.9
+  poly_step_size: 1
+  sched: polynomial
+  weight_decay: 0.0
+resume: true
+version: normal
+world_batch_size: 1

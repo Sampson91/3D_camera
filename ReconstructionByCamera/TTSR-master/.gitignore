@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+*__pycache__
+*.vscode
+*.idea
+*.pyc
+# output 
+train_output
+train_output1
+*.pt
+*.log
+save_dir
+
+
+# launch bash
+
+
+# test files
+TTSR.pt
+test
+eval
+infer
+
+# Dataset
+CUFED

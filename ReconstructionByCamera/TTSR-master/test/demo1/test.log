@@ -1,0 +1,6 @@
+[2022-08-30 15:33:36,297] - [trainer.py file line:54] - INFO: load_model_path: train_output/model/model_00050.pt
+[2022-08-30 15:33:36,330] - [trainer.py file line:224] - INFO: Test process...
+[2022-08-30 15:33:36,330] - [trainer.py file line:225] - INFO: lr path:     ./test/demo/lr/0.jpg
+[2022-08-30 15:33:36,330] - [trainer.py file line:226] - INFO: ref path:    ./test/demo/ref/0.jpg
+[2022-08-30 15:33:40,218] - [trainer.py file line:291] - INFO: output path: ./test/demo1/save_results\0.jpg
+[2022-08-30 15:33:40,218] - [trainer.py file line:293] - INFO: Test over.

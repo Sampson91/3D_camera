@@ -1,0 +1,1 @@
+python -m sample.py --config=configs/colorizer.py --mode=sample_test --logdir=./LOGDIR

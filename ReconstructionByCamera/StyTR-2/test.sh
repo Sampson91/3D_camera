@@ -1,0 +1,1 @@
+python test.py  --content_dir=datasets/test_content --style_dir=datasets/test_style --output=output

@@ -1,0 +1,560 @@
+[2022-08-11 15:41:03,979] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:41:11,778] - [trainer.py file line:102] - INFO: init epoch: 1	 batch: 10
+[2022-08-11 15:41:11,871] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.1816882044
+[2022-08-11 15:41:14,973] - [trainer.py file line:102] - INFO: init epoch: 1	 batch: 20
+[2022-08-11 15:41:15,067] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.1261315197
+[2022-08-11 15:41:16,181] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:41:24,579] - [trainer.py file line:102] - INFO: epoch: 1	 batch: 10
+[2022-08-11 15:41:24,674] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0973871425
+[2022-08-11 15:41:24,696] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0297699776
+[2022-08-11 15:41:24,703] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0169354789
+[2022-08-11 15:41:24,852] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0000090714
+[2022-08-11 15:41:29,795] - [trainer.py file line:102] - INFO: epoch: 1	 batch: 20
+[2022-08-11 15:41:29,888] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0943648070
+[2022-08-11 15:41:29,910] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0248815548
+[2022-08-11 15:41:29,918] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0154634230
+[2022-08-11 15:41:30,065] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0002225837
+[2022-08-11 15:41:31,665] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:41:40,122] - [trainer.py file line:102] - INFO: epoch: 2	 batch: 10
+[2022-08-11 15:41:40,217] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0817251354
+[2022-08-11 15:41:40,239] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0203106310
+[2022-08-11 15:41:40,246] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0144221876
+[2022-08-11 15:41:40,394] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0002872428
+[2022-08-11 15:41:45,323] - [trainer.py file line:102] - INFO: epoch: 2	 batch: 20
+[2022-08-11 15:41:45,418] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0779951215
+[2022-08-11 15:41:45,441] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0192852393
+[2022-08-11 15:41:45,448] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0135293705
+[2022-08-11 15:41:45,597] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0003780136
+[2022-08-11 15:41:47,203] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:41:55,523] - [trainer.py file line:102] - INFO: epoch: 3	 batch: 10
+[2022-08-11 15:41:55,618] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0760019198
+[2022-08-11 15:41:55,639] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0161040537
+[2022-08-11 15:41:55,646] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0127535099
+[2022-08-11 15:41:55,796] - [trainer.py file line:141] - INFO: adversarial_loss: -0.0025152229
+[2022-08-11 15:42:00,729] - [trainer.py file line:102] - INFO: epoch: 3	 batch: 20
+[2022-08-11 15:42:00,825] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0766024664
+[2022-08-11 15:42:00,847] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0183706712
+[2022-08-11 15:42:00,854] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0115331626
+[2022-08-11 15:42:01,003] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0010071852
+[2022-08-11 15:42:02,610] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:42:10,933] - [trainer.py file line:102] - INFO: epoch: 4	 batch: 10
+[2022-08-11 15:42:11,032] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0765076727
+[2022-08-11 15:42:11,054] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0166594107
+[2022-08-11 15:42:11,062] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0118399654
+[2022-08-11 15:42:11,215] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0136121921
+[2022-08-11 15:42:16,224] - [trainer.py file line:102] - INFO: epoch: 4	 batch: 20
+[2022-08-11 15:42:16,319] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0777147114
+[2022-08-11 15:42:16,341] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0152537497
+[2022-08-11 15:42:16,348] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0116618257
+[2022-08-11 15:42:16,496] - [trainer.py file line:141] - INFO: adversarial_loss: 0.1025850698
+[2022-08-11 15:42:18,095] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:42:26,534] - [trainer.py file line:102] - INFO: epoch: 5	 batch: 10
+[2022-08-11 15:42:26,629] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0757290125
+[2022-08-11 15:42:26,651] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0159745589
+[2022-08-11 15:42:26,658] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0107797384
+[2022-08-11 15:42:26,809] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0479109660
+[2022-08-11 15:42:31,774] - [trainer.py file line:102] - INFO: epoch: 5	 batch: 20
+[2022-08-11 15:42:31,868] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0782604367
+[2022-08-11 15:42:31,890] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0147333201
+[2022-08-11 15:42:31,898] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0113487337
+[2022-08-11 15:42:32,047] - [trainer.py file line:141] - INFO: adversarial_loss: 0.1102237478
+[2022-08-11 15:42:33,653] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:42:42,105] - [trainer.py file line:102] - INFO: epoch: 6	 batch: 10
+[2022-08-11 15:42:42,200] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0795121938
+[2022-08-11 15:42:42,229] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0154387932
+[2022-08-11 15:42:42,236] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0113295205
+[2022-08-11 15:42:42,385] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0958707631
+[2022-08-11 15:42:47,361] - [trainer.py file line:102] - INFO: epoch: 6	 batch: 20
+[2022-08-11 15:42:47,457] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0752615333
+[2022-08-11 15:42:47,479] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0137570817
+[2022-08-11 15:42:47,486] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0098755211
+[2022-08-11 15:42:47,639] - [trainer.py file line:141] - INFO: adversarial_loss: -0.0060312226
+[2022-08-11 15:42:49,237] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:42:57,721] - [trainer.py file line:102] - INFO: epoch: 7	 batch: 10
+[2022-08-11 15:42:57,817] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0713254288
+[2022-08-11 15:42:57,839] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0122921355
+[2022-08-11 15:42:57,846] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0100218030
+[2022-08-11 15:42:57,995] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0847920924
+[2022-08-11 15:43:02,949] - [trainer.py file line:102] - INFO: epoch: 7	 batch: 20
+[2022-08-11 15:43:03,044] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0735858157
+[2022-08-11 15:43:03,066] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0133796716
+[2022-08-11 15:43:03,073] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0097884787
+[2022-08-11 15:43:03,221] - [trainer.py file line:141] - INFO: adversarial_loss: -0.0017382085
+[2022-08-11 15:43:04,822] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:43:13,133] - [trainer.py file line:102] - INFO: epoch: 8	 batch: 10
+[2022-08-11 15:43:13,228] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0768580884
+[2022-08-11 15:43:13,250] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0138571560
+[2022-08-11 15:43:13,257] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0096766744
+[2022-08-11 15:43:13,407] - [trainer.py file line:141] - INFO: adversarial_loss: 0.1160763949
+[2022-08-11 15:43:18,370] - [trainer.py file line:102] - INFO: epoch: 8	 batch: 20
+[2022-08-11 15:43:18,472] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0722658262
+[2022-08-11 15:43:18,496] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0121855699
+[2022-08-11 15:43:18,504] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0090110730
+[2022-08-11 15:43:18,664] - [trainer.py file line:141] - INFO: adversarial_loss: 0.1093077809
+[2022-08-11 15:43:20,318] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:43:28,729] - [trainer.py file line:102] - INFO: epoch: 9	 batch: 10
+[2022-08-11 15:43:28,824] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0768006444
+[2022-08-11 15:43:28,846] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0116469022
+[2022-08-11 15:43:28,853] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0088528078
+[2022-08-11 15:43:29,001] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0862771720
+[2022-08-11 15:43:33,959] - [trainer.py file line:102] - INFO: epoch: 9	 batch: 20
+[2022-08-11 15:43:34,054] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0751085430
+[2022-08-11 15:43:34,076] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0115523739
+[2022-08-11 15:43:34,083] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0086292550
+[2022-08-11 15:43:34,231] - [trainer.py file line:141] - INFO: adversarial_loss: -0.0049479241
+[2022-08-11 15:43:35,823] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:43:44,117] - [trainer.py file line:102] - INFO: epoch: 10	 batch: 10
+[2022-08-11 15:43:44,213] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0714702606
+[2022-08-11 15:43:44,234] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0107379528
+[2022-08-11 15:43:44,241] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0081582936
+[2022-08-11 15:43:44,391] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0031976392
+[2022-08-11 15:43:49,357] - [trainer.py file line:102] - INFO: epoch: 10	 batch: 20
+[2022-08-11 15:43:49,451] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0778668076
+[2022-08-11 15:43:49,472] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0109637482
+[2022-08-11 15:43:49,479] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0082571376
+[2022-08-11 15:43:49,629] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0992019400
+[2022-08-11 15:43:51,232] - [trainer.py file line:147] - INFO: saving the model...
+[2022-08-11 15:43:51,266] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:43:59,686] - [trainer.py file line:102] - INFO: epoch: 11	 batch: 10
+[2022-08-11 15:43:59,783] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0723627806
+[2022-08-11 15:43:59,805] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0101730330
+[2022-08-11 15:43:59,812] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0081590768
+[2022-08-11 15:43:59,961] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0497159846
+[2022-08-11 15:44:04,893] - [trainer.py file line:102] - INFO: epoch: 11	 batch: 20
+[2022-08-11 15:44:04,988] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0679938793
+[2022-08-11 15:44:05,010] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0093291635
+[2022-08-11 15:44:05,017] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0077095698
+[2022-08-11 15:44:05,165] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0566716082
+[2022-08-11 15:44:06,753] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:44:15,111] - [trainer.py file line:102] - INFO: epoch: 12	 batch: 10
+[2022-08-11 15:44:15,207] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0708118230
+[2022-08-11 15:44:15,228] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0097771948
+[2022-08-11 15:44:15,235] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0079448996
+[2022-08-11 15:44:15,384] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0433996357
+[2022-08-11 15:44:20,337] - [trainer.py file line:102] - INFO: epoch: 12	 batch: 20
+[2022-08-11 15:44:20,433] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0702397451
+[2022-08-11 15:44:20,454] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0092474800
+[2022-08-11 15:44:20,461] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0080013191
+[2022-08-11 15:44:20,610] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0737934187
+[2022-08-11 15:44:22,210] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:44:30,551] - [trainer.py file line:102] - INFO: epoch: 13	 batch: 10
+[2022-08-11 15:44:30,648] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0699346438
+[2022-08-11 15:44:30,671] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0092163170
+[2022-08-11 15:44:30,678] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0077793407
+[2022-08-11 15:44:30,829] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0041063870
+[2022-08-11 15:44:35,781] - [trainer.py file line:102] - INFO: epoch: 13	 batch: 20
+[2022-08-11 15:44:35,877] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0743616149
+[2022-08-11 15:44:35,899] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0099546751
+[2022-08-11 15:44:35,906] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0084041888
+[2022-08-11 15:44:36,054] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0320016481
+[2022-08-11 15:44:37,653] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:44:46,074] - [trainer.py file line:102] - INFO: epoch: 14	 batch: 10
+[2022-08-11 15:44:46,168] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0744560882
+[2022-08-11 15:44:46,191] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0092004258
+[2022-08-11 15:44:46,198] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0076801777
+[2022-08-11 15:44:46,347] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0768010691
+[2022-08-11 15:44:51,281] - [trainer.py file line:102] - INFO: epoch: 14	 batch: 20
+[2022-08-11 15:44:51,376] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0701656640
+[2022-08-11 15:44:51,398] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0076612821
+[2022-08-11 15:44:51,405] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0067181429
+[2022-08-11 15:44:51,554] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0355004072
+[2022-08-11 15:44:53,153] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:45:01,493] - [trainer.py file line:102] - INFO: epoch: 15	 batch: 10
+[2022-08-11 15:45:01,588] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0741468966
+[2022-08-11 15:45:01,610] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0079177059
+[2022-08-11 15:45:01,617] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0073092668
+[2022-08-11 15:45:01,768] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0304996651
+[2022-08-11 15:45:06,712] - [trainer.py file line:102] - INFO: epoch: 15	 batch: 20
+[2022-08-11 15:45:06,802] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0692102239
+[2022-08-11 15:45:06,824] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0076569607
+[2022-08-11 15:45:06,831] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0074402634
+[2022-08-11 15:45:06,980] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0426621474
+[2022-08-11 15:45:08,580] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:45:17,049] - [trainer.py file line:102] - INFO: epoch: 16	 batch: 10
+[2022-08-11 15:45:17,143] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0739709213
+[2022-08-11 15:45:17,166] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0082893511
+[2022-08-11 15:45:17,173] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0074171852
+[2022-08-11 15:45:17,322] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0414075851
+[2022-08-11 15:45:22,295] - [trainer.py file line:102] - INFO: epoch: 16	 batch: 20
+[2022-08-11 15:45:22,390] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0735056996
+[2022-08-11 15:45:22,411] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0083624851
+[2022-08-11 15:45:22,419] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0082709966
+[2022-08-11 15:45:22,568] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0711100027
+[2022-08-11 15:45:24,174] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:45:32,647] - [trainer.py file line:102] - INFO: epoch: 17	 batch: 10
+[2022-08-11 15:45:32,743] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0643380433
+[2022-08-11 15:45:32,766] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0068215136
+[2022-08-11 15:45:32,773] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0074292636
+[2022-08-11 15:45:32,922] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0651777908
+[2022-08-11 15:45:37,867] - [trainer.py file line:102] - INFO: epoch: 17	 batch: 20
+[2022-08-11 15:45:37,962] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0595689677
+[2022-08-11 15:45:37,984] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0057958043
+[2022-08-11 15:45:37,991] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0061445404
+[2022-08-11 15:45:38,139] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0533136539
+[2022-08-11 15:45:39,743] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:45:48,086] - [trainer.py file line:102] - INFO: epoch: 18	 batch: 10
+[2022-08-11 15:45:48,182] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0558267199
+[2022-08-11 15:45:48,203] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0052051740
+[2022-08-11 15:45:48,210] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0056934534
+[2022-08-11 15:45:48,361] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0736443028
+[2022-08-11 15:45:53,299] - [trainer.py file line:102] - INFO: epoch: 18	 batch: 20
+[2022-08-11 15:45:53,395] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0691946372
+[2022-08-11 15:45:53,417] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0062409276
+[2022-08-11 15:45:53,424] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0065106438
+[2022-08-11 15:45:53,573] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0248330291
+[2022-08-11 15:45:55,177] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:46:03,625] - [trainer.py file line:102] - INFO: epoch: 19	 batch: 10
+[2022-08-11 15:46:03,720] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0726985708
+[2022-08-11 15:46:03,742] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0076087131
+[2022-08-11 15:46:03,749] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0080869095
+[2022-08-11 15:46:03,899] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0479471721
+[2022-08-11 15:46:08,871] - [trainer.py file line:102] - INFO: epoch: 19	 batch: 20
+[2022-08-11 15:46:08,966] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0699794665
+[2022-08-11 15:46:08,987] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0060933852
+[2022-08-11 15:46:08,994] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0067312736
+[2022-08-11 15:46:09,145] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0811240301
+[2022-08-11 15:46:10,744] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:46:19,240] - [trainer.py file line:102] - INFO: epoch: 20	 batch: 10
+[2022-08-11 15:46:19,336] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0623585321
+[2022-08-11 15:46:19,358] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0058830306
+[2022-08-11 15:46:19,365] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0070268097
+[2022-08-11 15:46:19,514] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0995688662
+[2022-08-11 15:46:24,459] - [trainer.py file line:102] - INFO: epoch: 20	 batch: 20
+[2022-08-11 15:46:24,552] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0627671331
+[2022-08-11 15:46:24,574] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0055963616
+[2022-08-11 15:46:24,581] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0065730000
+[2022-08-11 15:46:24,730] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0375419520
+[2022-08-11 15:46:26,319] - [trainer.py file line:147] - INFO: saving the model...
+[2022-08-11 15:46:26,352] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:46:34,669] - [trainer.py file line:102] - INFO: epoch: 21	 batch: 10
+[2022-08-11 15:46:34,765] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0717730671
+[2022-08-11 15:46:34,788] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0064784386
+[2022-08-11 15:46:34,795] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0077177160
+[2022-08-11 15:46:34,945] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0557612665
+[2022-08-11 15:46:39,922] - [trainer.py file line:102] - INFO: epoch: 21	 batch: 20
+[2022-08-11 15:46:40,017] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0736139789
+[2022-08-11 15:46:40,039] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0060237842
+[2022-08-11 15:46:40,046] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0070603029
+[2022-08-11 15:46:40,195] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0992670804
+[2022-08-11 15:46:41,796] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:46:50,230] - [trainer.py file line:102] - INFO: epoch: 22	 batch: 10
+[2022-08-11 15:46:50,325] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0722850114
+[2022-08-11 15:46:50,347] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0061002253
+[2022-08-11 15:46:50,354] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0071068448
+[2022-08-11 15:46:50,503] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0522483885
+[2022-08-11 15:46:55,458] - [trainer.py file line:102] - INFO: epoch: 22	 batch: 20
+[2022-08-11 15:46:55,552] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0720459968
+[2022-08-11 15:46:55,575] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0060740220
+[2022-08-11 15:46:55,582] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0076933061
+[2022-08-11 15:46:55,733] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0357131101
+[2022-08-11 15:46:57,330] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:47:05,653] - [trainer.py file line:102] - INFO: epoch: 23	 batch: 10
+[2022-08-11 15:47:05,748] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0757015571
+[2022-08-11 15:47:05,770] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0078399070
+[2022-08-11 15:47:05,778] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0074250326
+[2022-08-11 15:47:05,926] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0501132719
+[2022-08-11 15:47:10,916] - [trainer.py file line:102] - INFO: epoch: 23	 batch: 20
+[2022-08-11 15:47:11,013] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0715316087
+[2022-08-11 15:47:11,035] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0070656016
+[2022-08-11 15:47:11,042] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0062729423
+[2022-08-11 15:47:11,192] - [trainer.py file line:141] - INFO: adversarial_loss: -0.0025902500
+[2022-08-11 15:47:12,786] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:47:21,244] - [trainer.py file line:102] - INFO: epoch: 24	 batch: 10
+[2022-08-11 15:47:21,339] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0723501816
+[2022-08-11 15:47:21,361] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0067880247
+[2022-08-11 15:47:21,368] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0074248239
+[2022-08-11 15:47:21,517] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0609406754
+[2022-08-11 15:47:26,469] - [trainer.py file line:102] - INFO: epoch: 24	 batch: 20
+[2022-08-11 15:47:26,564] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0615501963
+[2022-08-11 15:47:26,586] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0049038590
+[2022-08-11 15:47:26,593] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0058220634
+[2022-08-11 15:47:26,743] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0066184714
+[2022-08-11 15:47:28,338] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:47:36,802] - [trainer.py file line:102] - INFO: epoch: 25	 batch: 10
+[2022-08-11 15:47:36,898] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0695330873
+[2022-08-11 15:47:36,920] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0063081542
+[2022-08-11 15:47:36,927] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0078646177
+[2022-08-11 15:47:37,077] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0431328490
+[2022-08-11 15:47:42,035] - [trainer.py file line:102] - INFO: epoch: 25	 batch: 20
+[2022-08-11 15:47:42,130] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0544963144
+[2022-08-11 15:47:42,152] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0041157198
+[2022-08-11 15:47:42,159] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0060379547
+[2022-08-11 15:47:42,309] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0386044569
+[2022-08-11 15:47:43,908] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:47:52,238] - [trainer.py file line:102] - INFO: epoch: 26	 batch: 10
+[2022-08-11 15:47:52,333] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0590007976
+[2022-08-11 15:47:52,356] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0046349894
+[2022-08-11 15:47:52,363] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0066603017
+[2022-08-11 15:47:52,513] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0424860679
+[2022-08-11 15:47:57,456] - [trainer.py file line:102] - INFO: epoch: 26	 batch: 20
+[2022-08-11 15:47:57,551] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0641273707
+[2022-08-11 15:47:57,573] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0048831543
+[2022-08-11 15:47:57,580] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0067012976
+[2022-08-11 15:47:57,728] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0391729325
+[2022-08-11 15:47:59,319] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:48:07,633] - [trainer.py file line:102] - INFO: epoch: 27	 batch: 10
+[2022-08-11 15:48:07,726] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0595868081
+[2022-08-11 15:48:07,750] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0040614251
+[2022-08-11 15:48:07,758] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0055161184
+[2022-08-11 15:48:07,907] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0268157143
+[2022-08-11 15:48:12,870] - [trainer.py file line:102] - INFO: epoch: 27	 batch: 20
+[2022-08-11 15:48:12,965] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0644983053
+[2022-08-11 15:48:12,987] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0045426707
+[2022-08-11 15:48:12,994] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0066492567
+[2022-08-11 15:48:13,143] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0618890151
+[2022-08-11 15:48:14,748] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:48:23,197] - [trainer.py file line:102] - INFO: epoch: 28	 batch: 10
+[2022-08-11 15:48:23,293] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0695937350
+[2022-08-11 15:48:23,315] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0047135097
+[2022-08-11 15:48:23,322] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0065785781
+[2022-08-11 15:48:23,472] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0386374220
+[2022-08-11 15:48:28,420] - [trainer.py file line:102] - INFO: epoch: 28	 batch: 20
+[2022-08-11 15:48:28,515] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0626202598
+[2022-08-11 15:48:28,537] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0043350244
+[2022-08-11 15:48:28,544] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0072271931
+[2022-08-11 15:48:28,692] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0368489660
+[2022-08-11 15:48:30,285] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:48:38,626] - [trainer.py file line:102] - INFO: epoch: 29	 batch: 10
+[2022-08-11 15:48:38,720] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0691418201
+[2022-08-11 15:48:38,744] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0047308221
+[2022-08-11 15:48:38,751] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0071139717
+[2022-08-11 15:48:38,899] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0284537133
+[2022-08-11 15:48:43,844] - [trainer.py file line:102] - INFO: epoch: 29	 batch: 20
+[2022-08-11 15:48:43,939] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0638283640
+[2022-08-11 15:48:43,961] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0043034363
+[2022-08-11 15:48:43,968] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0064634606
+[2022-08-11 15:48:44,117] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0352570005
+[2022-08-11 15:48:45,710] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:48:54,020] - [trainer.py file line:102] - INFO: epoch: 30	 batch: 10
+[2022-08-11 15:48:54,116] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0674765781
+[2022-08-11 15:48:54,138] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0045801625
+[2022-08-11 15:48:54,145] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0074034128
+[2022-08-11 15:48:54,294] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0701003820
+[2022-08-11 15:48:59,237] - [trainer.py file line:102] - INFO: epoch: 30	 batch: 20
+[2022-08-11 15:48:59,332] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0523288883
+[2022-08-11 15:48:59,354] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0033025127
+[2022-08-11 15:48:59,361] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0058225277
+[2022-08-11 15:48:59,510] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0396953411
+[2022-08-11 15:49:01,112] - [trainer.py file line:147] - INFO: saving the model...
+[2022-08-11 15:49:01,145] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:49:09,566] - [trainer.py file line:102] - INFO: epoch: 31	 batch: 10
+[2022-08-11 15:49:09,660] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0684469938
+[2022-08-11 15:49:09,682] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0042736558
+[2022-08-11 15:49:09,690] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0072218888
+[2022-08-11 15:49:09,839] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0728710964
+[2022-08-11 15:49:14,806] - [trainer.py file line:102] - INFO: epoch: 31	 batch: 20
+[2022-08-11 15:49:14,902] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0680211335
+[2022-08-11 15:49:14,924] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0044593406
+[2022-08-11 15:49:14,931] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0069109839
+[2022-08-11 15:49:15,079] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0319792069
+[2022-08-11 15:49:16,678] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:49:25,018] - [trainer.py file line:102] - INFO: epoch: 32	 batch: 10
+[2022-08-11 15:49:25,114] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0611473210
+[2022-08-11 15:49:25,135] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0041140518
+[2022-08-11 15:49:25,142] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0061014774
+[2022-08-11 15:49:25,292] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0610750765
+[2022-08-11 15:49:30,307] - [trainer.py file line:102] - INFO: epoch: 32	 batch: 20
+[2022-08-11 15:49:30,402] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0635948256
+[2022-08-11 15:49:30,424] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0037839354
+[2022-08-11 15:49:30,431] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0060351468
+[2022-08-11 15:49:30,581] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0568331331
+[2022-08-11 15:49:32,190] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:49:40,591] - [trainer.py file line:102] - INFO: epoch: 33	 batch: 10
+[2022-08-11 15:49:40,685] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0617612153
+[2022-08-11 15:49:40,706] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0037040876
+[2022-08-11 15:49:40,714] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0061072633
+[2022-08-11 15:49:40,865] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0197368041
+[2022-08-11 15:49:45,818] - [trainer.py file line:102] - INFO: epoch: 33	 batch: 20
+[2022-08-11 15:49:45,914] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0623184144
+[2022-08-11 15:49:45,936] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0044015995
+[2022-08-11 15:49:45,943] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0059254025
+[2022-08-11 15:49:46,091] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0137849348
+[2022-08-11 15:49:47,692] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:49:56,159] - [trainer.py file line:102] - INFO: epoch: 34	 batch: 10
+[2022-08-11 15:49:56,255] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0661263242
+[2022-08-11 15:49:56,277] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0040879315
+[2022-08-11 15:49:56,284] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0071448181
+[2022-08-11 15:49:56,434] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0417330042
+[2022-08-11 15:50:01,390] - [trainer.py file line:102] - INFO: epoch: 34	 batch: 20
+[2022-08-11 15:50:01,485] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0616208352
+[2022-08-11 15:50:01,508] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0040125768
+[2022-08-11 15:50:01,515] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0062429747
+[2022-08-11 15:50:01,664] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0157854594
+[2022-08-11 15:50:03,259] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:50:11,595] - [trainer.py file line:102] - INFO: epoch: 35	 batch: 10
+[2022-08-11 15:50:11,690] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0612246096
+[2022-08-11 15:50:11,712] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0037577206
+[2022-08-11 15:50:11,719] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0068815220
+[2022-08-11 15:50:11,868] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0515919775
+[2022-08-11 15:50:16,811] - [trainer.py file line:102] - INFO: epoch: 35	 batch: 20
+[2022-08-11 15:50:16,906] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0605050884
+[2022-08-11 15:50:16,928] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0034793727
+[2022-08-11 15:50:16,935] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0068445695
+[2022-08-11 15:50:17,084] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0428028777
+[2022-08-11 15:50:18,689] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:50:27,148] - [trainer.py file line:102] - INFO: epoch: 36	 batch: 10
+[2022-08-11 15:50:27,244] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0601274408
+[2022-08-11 15:50:27,266] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0033822374
+[2022-08-11 15:50:27,273] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0066346326
+[2022-08-11 15:50:27,422] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0193119477
+[2022-08-11 15:50:32,388] - [trainer.py file line:102] - INFO: epoch: 36	 batch: 20
+[2022-08-11 15:50:32,481] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0620548278
+[2022-08-11 15:50:32,504] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0035807197
+[2022-08-11 15:50:32,512] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0064378846
+[2022-08-11 15:50:32,661] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0220831577
+[2022-08-11 15:50:34,263] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:50:42,602] - [trainer.py file line:102] - INFO: epoch: 37	 batch: 10
+[2022-08-11 15:50:42,698] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0504979901
+[2022-08-11 15:50:42,720] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0026967369
+[2022-08-11 15:50:42,727] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0054176110
+[2022-08-11 15:50:42,877] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0374095961
+[2022-08-11 15:50:47,833] - [trainer.py file line:102] - INFO: epoch: 37	 batch: 20
+[2022-08-11 15:50:47,927] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0559057035
+[2022-08-11 15:50:47,949] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0032888199
+[2022-08-11 15:50:47,957] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0057692886
+[2022-08-11 15:50:48,105] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0115846731
+[2022-08-11 15:50:49,700] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:50:58,138] - [trainer.py file line:102] - INFO: epoch: 38	 batch: 10
+[2022-08-11 15:50:58,234] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0633942485
+[2022-08-11 15:50:58,256] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0033340673
+[2022-08-11 15:50:58,263] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0072372546
+[2022-08-11 15:50:58,412] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0453726985
+[2022-08-11 15:51:03,360] - [trainer.py file line:102] - INFO: epoch: 38	 batch: 20
+[2022-08-11 15:51:03,454] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0535933897
+[2022-08-11 15:51:03,478] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0026231529
+[2022-08-11 15:51:03,485] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0059001581
+[2022-08-11 15:51:03,633] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0366842821
+[2022-08-11 15:51:05,240] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:51:13,571] - [trainer.py file line:102] - INFO: epoch: 39	 batch: 10
+[2022-08-11 15:51:13,665] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0545236655
+[2022-08-11 15:51:13,689] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0026532442
+[2022-08-11 15:51:13,696] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0049331803
+[2022-08-11 15:51:13,845] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0289839897
+[2022-08-11 15:51:18,802] - [trainer.py file line:102] - INFO: epoch: 39	 batch: 20
+[2022-08-11 15:51:18,898] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0632009953
+[2022-08-11 15:51:18,920] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0030293411
+[2022-08-11 15:51:18,927] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0060447515
+[2022-08-11 15:51:19,076] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0291096512
+[2022-08-11 15:51:20,677] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:51:29,126] - [trainer.py file line:102] - INFO: epoch: 40	 batch: 10
+[2022-08-11 15:51:29,221] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0604155697
+[2022-08-11 15:51:29,243] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0037304144
+[2022-08-11 15:51:29,250] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0056303781
+[2022-08-11 15:51:29,399] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0443833247
+[2022-08-11 15:51:34,349] - [trainer.py file line:102] - INFO: epoch: 40	 batch: 20
+[2022-08-11 15:51:34,443] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0486280583
+[2022-08-11 15:51:34,467] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0025468126
+[2022-08-11 15:51:34,474] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0049153911
+[2022-08-11 15:51:34,623] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0264168661
+[2022-08-11 15:51:36,235] - [trainer.py file line:147] - INFO: saving the model...
+[2022-08-11 15:51:36,268] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:51:44,568] - [trainer.py file line:102] - INFO: epoch: 41	 batch: 10
+[2022-08-11 15:51:44,664] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0600053743
+[2022-08-11 15:51:44,686] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0031678842
+[2022-08-11 15:51:44,693] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0048960000
+[2022-08-11 15:51:44,843] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0331588872
+[2022-08-11 15:51:49,783] - [trainer.py file line:102] - INFO: epoch: 41	 batch: 20
+[2022-08-11 15:51:49,879] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0628698170
+[2022-08-11 15:51:49,901] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0030649616
+[2022-08-11 15:51:49,908] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0057957801
+[2022-08-11 15:51:50,058] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0333602950
+[2022-08-11 15:51:51,663] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:51:59,962] - [trainer.py file line:102] - INFO: epoch: 42	 batch: 10
+[2022-08-11 15:52:00,057] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0585367493
+[2022-08-11 15:52:00,078] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0029509014
+[2022-08-11 15:52:00,085] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0060139690
+[2022-08-11 15:52:00,235] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0363363512
+[2022-08-11 15:52:05,181] - [trainer.py file line:102] - INFO: epoch: 42	 batch: 20
+[2022-08-11 15:52:05,275] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0614669137
+[2022-08-11 15:52:05,297] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0027350569
+[2022-08-11 15:52:05,304] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0063545620
+[2022-08-11 15:52:05,465] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0230605453
+[2022-08-11 15:52:07,065] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:52:15,508] - [trainer.py file line:102] - INFO: epoch: 43	 batch: 10
+[2022-08-11 15:52:15,602] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0608337298
+[2022-08-11 15:52:15,625] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0027510899
+[2022-08-11 15:52:15,632] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0063541946
+[2022-08-11 15:52:15,781] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0383555703
+[2022-08-11 15:52:20,741] - [trainer.py file line:102] - INFO: epoch: 43	 batch: 20
+[2022-08-11 15:52:20,836] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0602522343
+[2022-08-11 15:52:20,858] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0026616042
+[2022-08-11 15:52:20,865] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0062950365
+[2022-08-11 15:52:21,015] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0429673381
+[2022-08-11 15:52:22,612] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:52:30,949] - [trainer.py file line:102] - INFO: epoch: 44	 batch: 10
+[2022-08-11 15:52:31,044] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0548623875
+[2022-08-11 15:52:31,066] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0025093600
+[2022-08-11 15:52:31,073] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0055924021
+[2022-08-11 15:52:31,221] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0334916040
+[2022-08-11 15:52:36,167] - [trainer.py file line:102] - INFO: epoch: 44	 batch: 20
+[2022-08-11 15:52:36,262] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0545508601
+[2022-08-11 15:52:36,284] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0022291169
+[2022-08-11 15:52:36,291] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0056084702
+[2022-08-11 15:52:36,441] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0357427187
+[2022-08-11 15:52:38,050] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:52:46,354] - [trainer.py file line:102] - INFO: epoch: 45	 batch: 10
+[2022-08-11 15:52:46,448] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0559528731
+[2022-08-11 15:52:46,469] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0024332241
+[2022-08-11 15:52:46,476] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0051546847
+[2022-08-11 15:52:46,625] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0382338464
+[2022-08-11 15:52:51,574] - [trainer.py file line:102] - INFO: epoch: 45	 batch: 20
+[2022-08-11 15:52:51,670] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0587131232
+[2022-08-11 15:52:51,691] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0024807157
+[2022-08-11 15:52:51,698] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0061735529
+[2022-08-11 15:52:51,849] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0220749229
+[2022-08-11 15:52:53,454] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:53:01,743] - [trainer.py file line:102] - INFO: epoch: 46	 batch: 10
+[2022-08-11 15:53:01,840] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0574599579
+[2022-08-11 15:53:01,861] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0030386054
+[2022-08-11 15:53:01,868] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0048078499
+[2022-08-11 15:53:02,018] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0185977779
+[2022-08-11 15:53:06,992] - [trainer.py file line:102] - INFO: epoch: 46	 batch: 20
+[2022-08-11 15:53:07,085] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0573642515
+[2022-08-11 15:53:07,108] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0029283513
+[2022-08-11 15:53:07,115] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0049898992
+[2022-08-11 15:53:07,263] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0269317590
+[2022-08-11 15:53:08,853] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:53:17,299] - [trainer.py file line:102] - INFO: epoch: 47	 batch: 10
+[2022-08-11 15:53:17,394] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0580946021
+[2022-08-11 15:53:17,416] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0025880539
+[2022-08-11 15:53:17,423] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0061450996
+[2022-08-11 15:53:17,573] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0540537648
+[2022-08-11 15:53:22,530] - [trainer.py file line:102] - INFO: epoch: 47	 batch: 20
+[2022-08-11 15:53:22,625] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0489491671
+[2022-08-11 15:53:22,647] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0021418524
+[2022-08-11 15:53:22,654] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0033453377
+[2022-08-11 15:53:22,805] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0167027768
+[2022-08-11 15:53:24,412] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:53:32,731] - [trainer.py file line:102] - INFO: epoch: 48	 batch: 10
+[2022-08-11 15:53:32,827] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0545531958
+[2022-08-11 15:53:32,849] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0023499539
+[2022-08-11 15:53:32,856] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0048381370
+[2022-08-11 15:53:33,005] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0382077359
+[2022-08-11 15:53:37,973] - [trainer.py file line:102] - INFO: epoch: 48	 batch: 20
+[2022-08-11 15:53:38,069] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0492743813
+[2022-08-11 15:53:38,091] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0022712110
+[2022-08-11 15:53:38,098] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0047218725
+[2022-08-11 15:53:38,248] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0439861491
+[2022-08-11 15:53:39,848] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:53:48,140] - [trainer.py file line:102] - INFO: epoch: 49	 batch: 10
+[2022-08-11 15:53:48,235] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0534397438
+[2022-08-11 15:53:48,257] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0023885129
+[2022-08-11 15:53:48,264] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0048538614
+[2022-08-11 15:53:48,414] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0191622805
+[2022-08-11 15:53:53,370] - [trainer.py file line:102] - INFO: epoch: 49	 batch: 20
+[2022-08-11 15:53:53,466] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0484346449
+[2022-08-11 15:53:53,488] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0021590346
+[2022-08-11 15:53:53,495] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0047449097
+[2022-08-11 15:53:53,644] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0238153338
+[2022-08-11 15:53:55,248] - [trainer.py file line:73] - INFO: Current epoch learning rate: 1.000000e-04
+[2022-08-11 15:54:03,721] - [trainer.py file line:102] - INFO: epoch: 50	 batch: 10
+[2022-08-11 15:54:03,818] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0422276631
+[2022-08-11 15:54:03,839] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0018581911
+[2022-08-11 15:54:03,846] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0044777696
+[2022-08-11 15:54:03,996] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0314780399
+[2022-08-11 15:54:08,955] - [trainer.py file line:102] - INFO: epoch: 50	 batch: 20
+[2022-08-11 15:54:09,049] - [trainer.py file line:104] - INFO: reconstruction_loss: 0.0526257902
+[2022-08-11 15:54:09,072] - [trainer.py file line:119] - INFO: perceptual_loss_SR_HR: 0.0022281313
+[2022-08-11 15:54:09,079] - [trainer.py file line:134] - INFO: perceptual_loss_SR_T: 0.0047234474
+[2022-08-11 15:54:09,230] - [trainer.py file line:141] - INFO: adversarial_loss: 0.0220441073
+[2022-08-11 15:54:10,824] - [trainer.py file line:147] - INFO: saving the model...

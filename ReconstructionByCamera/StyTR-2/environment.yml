@@ -1,0 +1,21 @@
+name: stytr2
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.7
+  - pytorch==1.8.0
+  - torchvision==0.9.0
+  - torchaudio==0.8.0
+  - cudatoolkit=11.1
+  - pip
+  - pip:
+      - pillow
+      - numpy
+      - scipy
+      - tqdm
+      - tensorboardX
+      - matplotlib
+      - pandas
+      - seaborn
